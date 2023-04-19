@@ -1,0 +1,13 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "resolver": {
+    "sourceExts": [
+      "jsx",
+      "js",
+      "ts",
+      "tsx",
+      "cjs",
+      "json"
+    ]
+  },
+}
